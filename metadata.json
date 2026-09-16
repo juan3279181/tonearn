@@ -1,0 +1,7 @@
+{
+  "name": "TON Miner - Telegram Mini App",
+  "description": "TON Coin mining Telegram mini app with unlimited ad boosts, referral rewards, secure TON wallet payouts, anti-cheat detection, and admin control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

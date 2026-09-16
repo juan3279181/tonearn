@@ -1,0 +1,1815 @@
+{
+  "settings": {
+    "baseMiningRatePerHour": 0.015,
+    "tapRewardAmount": 0.0001,
+    "adBoostMultiplier": 2.5,
+    "adBoostDurationMinutes": 30,
+    "adRewardInstantTon": 0.005,
+    "referralBonusTon": 0.05,
+    "referralCommissionPercent": 12,
+    "minWithdrawalLimit": 0.01,
+    "withdrawalFeePercent": 1.5,
+    "antiCheatMaxTapsPerSec": 12,
+    "antiCheatSensitivity": "medium",
+    "maintenanceMode": false
+  },
+  "users": {
+    "user_1": {
+      "id": "user_1",
+      "telegramId": "829471923",
+      "username": "crypto_whale_ton",
+      "firstName": "Alexandre",
+      "tonWalletAddress": "EQBvW8Z5huBkMJYdn30dcTe8xO4m5N42y2N9G3v8v0784920",
+      "balance": 14.8521,
+      "totalMined": 42.6105,
+      "energy": 1000,
+      "maxEnergy": 1000,
+      "energyRegenRate": 2,
+      "minerLevel": 5,
+      "minerBaseRate": 0.045,
+      "activeBoosts": [],
+      "lastActiveTimestamp": 1789472530237,
+      "lastDailyClaim": 1789400650237,
+      "dailyStreak": 6,
+      "referralCode": "TON_WHALE",
+      "referralsCount": 48,
+      "referralEarnings": 6.24,
+      "role": "user",
+      "isBanned": false,
+      "cheatScore": 0,
+      "botFlags": [],
+      "adsWatchedCount": 124,
+      "createdAt": 1786880650237
+    },
+    "user_2": {
+      "id": "user_2",
+      "telegramId": "992019481",
+      "username": "ton_rocket_node",
+      "firstName": "Elena R.",
+      "tonWalletAddress": "UQDFG21lmskwpo1829mskalq01828mznxka91283namskd01",
+      "balance": 8.3129,
+      "totalMined": 29.4182,
+      "energy": 1000,
+      "maxEnergy": 1000,
+      "energyRegenRate": 2,
+      "minerLevel": 4,
+      "minerBaseRate": 0.035,
+      "activeBoosts": [],
+      "lastActiveTimestamp": 1789472350237,
+      "lastDailyClaim": 1789429450237,
+      "dailyStreak": 4,
+      "referralCode": "ROCKET_TON",
+      "referralsCount": 31,
+      "referralEarnings": 3.85,
+      "role": "user",
+      "isBanned": false,
+      "cheatScore": 0,
+      "botFlags": [],
+      "adsWatchedCount": 88,
+      "createdAt": 1787312650237
+    },
+    "user_3": {
+      "id": "user_3",
+      "telegramId": "551928472",
+      "username": "durov_miner_fan",
+      "firstName": "Pavel M.",
+      "tonWalletAddress": "EQC38dm1ksu2019smdkqw918239mskd019284jksdfa01827",
+      "balance": 5.1294,
+      "totalMined": 19.8291,
+      "energy": 1000,
+      "maxEnergy": 1000,
+      "energyRegenRate": 2,
+      "minerLevel": 3,
+      "minerBaseRate": 0.025,
+      "activeBoosts": [],
+      "lastActiveTimestamp": 1789472050237,
+      "lastDailyClaim": 1789443850237,
+      "dailyStreak": 3,
+      "referralCode": "DUROV_FAN",
+      "referralsCount": 22,
+      "referralEarnings": 2.11,
+      "role": "user",
+      "isBanned": false,
+      "cheatScore": 0,
+      "botFlags": [],
+      "adsWatchedCount": 65,
+      "createdAt": 1787917450237
+    },
+    "user_demo": {
+      "id": "user_demo",
+      "telegramId": "772910482",
+      "username": "ton_champion",
+      "firstName": "You (Miner)",
+      "tonWalletAddress": "EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N",
+      "balance": 3,
+      "totalMined": 1.5202499999999994,
+      "energy": 1000,
+      "maxEnergy": 1000,
+      "energyRegenRate": 2,
+      "minerLevel": 2,
+      "minerBaseRate": 0.02,
+      "activeBoosts": [],
+      "lastActiveTimestamp": 1789543469720,
+      "lastDailyClaim": 1789382650237,
+      "dailyStreak": 2,
+      "referralCode": "TON_MINER_VIP",
+      "referralsCount": 3,
+      "referralEarnings": 0.18,
+      "role": "admin",
+      "isBanned": false,
+      "cheatScore": 0,
+      "botFlags": [],
+      "adsWatchedCount": 7,
+      "createdAt": 1789213450237
+    },
+    "user_telegram_998877": {
+      "id": "user_telegram_998877",
+      "telegramId": "665748420",
+      "username": "miner_x1ra",
+      "firstName": "Miner",
+      "tonWalletAddress": "",
+      "balance": 0.0552,
+      "totalMined": 0.0552,
+      "energy": 1000,
+      "maxEnergy": 1000,
+      "energyRegenRate": 2,
+      "minerLevel": 1,
+      "minerBaseRate": 0.015,
+      "activeBoosts": [
+        {
+          "id": "boost_1789474197417",
+          "title": "2.5x Speed Boost",
+          "multiplier": 2.5,
+          "durationSeconds": 1800,
+          "startedAt": 1789474197417,
+          "expiresAt": 1789475997417,
+          "type": "ad"
+        }
+      ],
+      "lastActiveTimestamp": 1789474197412,
+      "lastDailyClaim": 0,
+      "dailyStreak": 0,
+      "referralCode": "TON_I624U",
+      "referralsCount": 0,
+      "referralEarnings": 0,
+      "role": "user",
+      "isBanned": false,
+      "cheatScore": 0,
+      "botFlags": [],
+      "adsWatchedCount": 1,
+      "createdAt": 1789474197412
+    }
+  },
+  "withdrawals": [
+    {
+      "id": "tx_iomy084p",
+      "userId": "user_demo",
+      "username": "ton_champion",
+      "amount": 0.05,
+      "fee": 0.00075,
+      "netAmount": 0.04925,
+      "tonAddress": "EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N",
+      "status": "refunded",
+      "createdAt": 1789475088636,
+      "refundedAt": 1789543262853
+    },
+    {
+      "id": "tx_dkd8je64",
+      "userId": "user_demo",
+      "username": "ton_champion",
+      "amount": 0.5,
+      "fee": 0.0075,
+      "netAmount": 0.4925,
+      "tonAddress": "EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N",
+      "status": "refunded",
+      "createdAt": 1789474884181,
+      "refundedAt": 1789543262853
+    },
+    {
+      "id": "tx_demo_01",
+      "userId": "user_1",
+      "username": "crypto_whale_ton",
+      "amount": 5,
+      "fee": 0.075,
+      "netAmount": 4.925,
+      "tonAddress": "EQBvW8Z5huBkMJYdn30dcTe8xO4m5N42y2N9G3v8v0784920",
+      "status": "completed",
+      "createdAt": 1789299850237,
+      "processedAt": 1789299970237,
+      "txHash": "9a72b01fc5e8e819fa2c4d9e01824abde92f11c34a1b0283c4821a0f9182390a"
+    },
+    {
+      "id": "tx_demo_02",
+      "userId": "user_2",
+      "username": "ton_rocket_node",
+      "amount": 2.5,
+      "fee": 0.0375,
+      "netAmount": 2.4625,
+      "tonAddress": "UQDFG21lmskwpo1829mskalq01828mznxka91283namskd01",
+      "status": "completed",
+      "createdAt": 1789386250237,
+      "processedAt": 1789386295237,
+      "txHash": "1f82c401aa94b8e2819cd09275a28bce0818274acb91827361928aef01928471"
+    },
+    {
+      "id": "tx_demo_pending",
+      "userId": "user_3",
+      "username": "durov_miner_fan",
+      "amount": 1.2,
+      "fee": 0.018,
+      "netAmount": 1.182,
+      "tonAddress": "EQC38dm1ksu2019smdkqw918239mskd019284jksdfa01827",
+      "status": "pending",
+      "createdAt": 1789461850237
+    }
+  ],
+  "traffic": [
+    {
+      "id": "trf_na3t401",
+      "timestamp": 1789543471883,
+      "endpoint": "/api/wallet/withdraw",
+      "method": "POST",
+      "ip": "127.0.0.1",
+      "durationMs": 2,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_diqiuly",
+      "timestamp": 1789543469721,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "127.0.0.1",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_soeyfun",
+      "timestamp": 1789543466050,
+      "endpoint": "/api/user/sync",
+      "method": "POST",
+      "ip": "127.0.0.1",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_glrlww1",
+      "timestamp": 1789543463043,
+      "endpoint": "/api/user/sync",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "127.0.0.1",
+      "durationMs": 45,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_3fxfenl",
+      "timestamp": 1789543460055,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "127.0.0.1",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_uowf7pc",
+      "timestamp": 1789543457967,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_jju16c0",
+      "timestamp": 1789543457917,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_xj7jpxx",
+      "timestamp": 1789543457862,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_o5vpyng",
+      "timestamp": 1789543457806,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_t70aggr",
+      "timestamp": 1789543457804,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 2,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_cosjawa",
+      "timestamp": 1789543456666,
+      "endpoint": "/api/wallet/dispatcher-status",
+      "method": "GET",
+      "ip": "127.0.0.1",
+      "durationMs": 7,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_pd3h0ml",
+      "timestamp": 1789475887158,
+      "endpoint": "/api/user/wallet",
+      "method": "POST",
+      "ip": "127.0.0.1",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_j9bdgs3",
+      "timestamp": 1789475884472,
+      "endpoint": "/api/wallet/save",
+      "method": "POST",
+      "ip": "127.0.0.1",
+      "durationMs": 4,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_0l8ks0t",
+      "timestamp": 1789475869559,
+      "endpoint": "/api/user/wallet",
+      "method": "POST",
+      "ip": "127.0.0.1",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_mrf10f0",
+      "timestamp": 1789475853663,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_22lwc0v",
+      "timestamp": 1789475853564,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_l2cn4x6",
+      "timestamp": 1789475853463,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_2d2e10f",
+      "timestamp": 1789475853386,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_ztzz896",
+      "timestamp": 1789475853385,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_isi8xgf",
+      "timestamp": 1789475828762,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_hemmdbe",
+      "timestamp": 1789475828713,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_p4qi14p",
+      "timestamp": 1789475828662,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_rrubnm5",
+      "timestamp": 1789475828582,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_pds01wn",
+      "timestamp": 1789475828484,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_qcbhv6a",
+      "timestamp": 1789475803554,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_rpujk5s",
+      "timestamp": 1789475803504,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_3ku44c8",
+      "timestamp": 1789475803453,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_8s5m5z0",
+      "timestamp": 1789475803386,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_v0rzyl3",
+      "timestamp": 1789475803385,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_sh3uecb",
+      "timestamp": 1789475778556,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_q6eo908",
+      "timestamp": 1789475778504,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_nxdshv7",
+      "timestamp": 1789475778432,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_ldepian",
+      "timestamp": 1789475778386,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_stxkqbz",
+      "timestamp": 1789475778385,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_fo2hekf",
+      "timestamp": 1789475753629,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_e7t1e8f",
+      "timestamp": 1789475753562,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_hdtpjwm",
+      "timestamp": 1789475753483,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_9fkw8ln",
+      "timestamp": 1789475753409,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_x91p6th",
+      "timestamp": 1789475753408,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_zox8qkq",
+      "timestamp": 1789475728538,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_85at0up",
+      "timestamp": 1789475728482,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_dphn96p",
+      "timestamp": 1789475728434,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_5f0xtik",
+      "timestamp": 1789475728379,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_t6u1r2a",
+      "timestamp": 1789475728377,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_b9wk5cm",
+      "timestamp": 1789475703547,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_1fe07zk",
+      "timestamp": 1789475703492,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_gvnemrp",
+      "timestamp": 1789475703433,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_ycy9v42",
+      "timestamp": 1789475703378,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_m1s0r4q",
+      "timestamp": 1789475703378,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_jaimubk",
+      "timestamp": 1789475678593,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_9wpag2n",
+      "timestamp": 1789475678534,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_yctbn1c",
+      "timestamp": 1789475678470,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_jh7cwzz",
+      "timestamp": 1789475678401,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_ql8nofn",
+      "timestamp": 1789475678387,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_jryz5f4",
+      "timestamp": 1789475653562,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_gjtas2d",
+      "timestamp": 1789475653505,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_sprvrh2",
+      "timestamp": 1789475653443,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_yrvmh20",
+      "timestamp": 1789475653381,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_ep4a8af",
+      "timestamp": 1789475653381,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_aczfqfy",
+      "timestamp": 1789475628664,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_50hp0b0",
+      "timestamp": 1789475628598,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_rjbcd9o",
+      "timestamp": 1789475628505,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_0rm7h36",
+      "timestamp": 1789475628399,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_f4yh8eq",
+      "timestamp": 1789475628398,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_wg75j52",
+      "timestamp": 1789475603618,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_saj9d9j",
+      "timestamp": 1789475603560,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_llyyjde",
+      "timestamp": 1789475603435,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_x9lg8ou",
+      "timestamp": 1789475603383,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_p31jmzr",
+      "timestamp": 1789475603382,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_7p2dddg",
+      "timestamp": 1789475578538,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_nvnayvx",
+      "timestamp": 1789475578484,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_ht2nz0b",
+      "timestamp": 1789475578434,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_61dkcjq",
+      "timestamp": 1789475578384,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_6mh0qkb",
+      "timestamp": 1789475578383,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_0xinghq",
+      "timestamp": 1789475553572,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_xoeu7tb",
+      "timestamp": 1789475553510,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_pwsqzmv",
+      "timestamp": 1789475553453,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_npke4j7",
+      "timestamp": 1789475553387,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_ea4xvcb",
+      "timestamp": 1789475553384,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_z9yaiyn",
+      "timestamp": 1789475549679,
+      "endpoint": "/api/user/wallet",
+      "method": "POST",
+      "ip": "127.0.0.1",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_5yqngry",
+      "timestamp": 1789475528560,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_jzjsm77",
+      "timestamp": 1789475528503,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_vvdoapv",
+      "timestamp": 1789475528443,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_afhmp3n",
+      "timestamp": 1789475528383,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_3w9ma18",
+      "timestamp": 1789475528382,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_hawaf14",
+      "timestamp": 1789475511938,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_cvsr263",
+      "timestamp": 1789475511681,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_oh3rhkw",
+      "timestamp": 1789475511626,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_eax1k0n",
+      "timestamp": 1789475511577,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_156sdl5",
+      "timestamp": 1789475511516,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_0hq9pgf",
+      "timestamp": 1789475457577,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_tgbwtcq",
+      "timestamp": 1789475457524,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_5egxgln",
+      "timestamp": 1789475457469,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_j7cmu7v",
+      "timestamp": 1789475457437,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_bdxaadg",
+      "timestamp": 1789475457413,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_il32jw5",
+      "timestamp": 1789475397617,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_ncjvnmb",
+      "timestamp": 1789475397562,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_jga8geu",
+      "timestamp": 1789475397506,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_t9lvc8f",
+      "timestamp": 1789475397474,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_hj97sat",
+      "timestamp": 1789475397448,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_xlwaabv",
+      "timestamp": 1789475353523,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_uyviyjt",
+      "timestamp": 1789475353471,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_jcm0jp9",
+      "timestamp": 1789475353423,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_s2869vl",
+      "timestamp": 1789475353371,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_8oa00ro",
+      "timestamp": 1789475353369,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_08vlio2",
+      "timestamp": 1789475328535,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_zey5osw",
+      "timestamp": 1789475328486,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_b5vdfcp",
+      "timestamp": 1789475328436,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_yx6ehyt",
+      "timestamp": 1789475328378,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_a64f7ua",
+      "timestamp": 1789475328377,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_jmgf1hm",
+      "timestamp": 1789475303527,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_z45on41",
+      "timestamp": 1789475303479,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_jim795o",
+      "timestamp": 1789475303434,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_m6p3dua",
+      "timestamp": 1789475303380,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_1zcr40z",
+      "timestamp": 1789475303377,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_3wnmnre",
+      "timestamp": 1789475278541,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_3ucst1x",
+      "timestamp": 1789475278490,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_amm7dmf",
+      "timestamp": 1789475278441,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_j8ji360",
+      "timestamp": 1789475278378,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_pzbegrq",
+      "timestamp": 1789475278377,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_u5px046",
+      "timestamp": 1789475253561,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_085rmr8",
+      "timestamp": 1789475253499,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_7rbh189",
+      "timestamp": 1789475253447,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_pb0h84s",
+      "timestamp": 1789475253385,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_8qn6525",
+      "timestamp": 1789475253384,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_bhx6y8z",
+      "timestamp": 1789475228542,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_h6ig6x1",
+      "timestamp": 1789475228499,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_njeypq6",
+      "timestamp": 1789475228431,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_n3f3npy",
+      "timestamp": 1789475228386,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_4c1l1t7",
+      "timestamp": 1789475228380,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_0ssae0j",
+      "timestamp": 1789475203370,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_tq3kgel",
+      "timestamp": 1789475203284,
+      "endpoint": "/api/leaderboard",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_ckwxnhb",
+      "timestamp": 1789475203282,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_rnsoa61",
+      "timestamp": 1789475203234,
+      "endpoint": "/api/wallet/history",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_jql2fp8",
+      "timestamp": 1789475203216,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_7gx1v54",
+      "timestamp": 1789475203116,
+      "endpoint": "/api/referrals",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_how9nit",
+      "timestamp": 1789475203109,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_olcvrtp",
+      "timestamp": 1789475203107,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_px9jyj0",
+      "timestamp": 1789475203048,
+      "endpoint": "/api/user",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_25xqihq",
+      "timestamp": 1789475203047,
+      "endpoint": "/api/notifications",
+      "method": "GET",
+      "userId": "user_demo",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_brnwjc9",
+      "timestamp": 1789475202934,
+      "endpoint": "/src/utils/tonAddress.ts",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_nrj4agx",
+      "timestamp": 1789475202896,
+      "endpoint": "/src/components/LeaderboardView.tsx",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_qh6xngy",
+      "timestamp": 1789475202887,
+      "endpoint": "/src/components/BottomNavigation.tsx",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_qecjru6",
+      "timestamp": 1789475202886,
+      "endpoint": "/src/components/NotificationDrawer.tsx",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_oubwqql",
+      "timestamp": 1789475202885,
+      "endpoint": "/src/components/AdminPanel.tsx",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_7rrtvbj",
+      "timestamp": 1789475202873,
+      "endpoint": "/src/components/AdBoostModal.tsx",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_15rihtp",
+      "timestamp": 1789475202873,
+      "endpoint": "/src/components/TelegramHeader.tsx",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_nv4ofgz",
+      "timestamp": 1789475202872,
+      "endpoint": "/src/components/WalletWithdrawModal.tsx",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_m6pdphg",
+      "timestamp": 1789475202872,
+      "endpoint": "/src/components/DailyBonusModal.tsx",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 1,
+      "isSuspicious": false
+    },
+    {
+      "id": "trf_5i9qxs1",
+      "timestamp": 1789475202871,
+      "endpoint": "/src/components/ReferralView.tsx",
+      "method": "GET",
+      "ip": "2603:7000:b1f0:78c0:29be:38d:4601:56a5",
+      "durationMs": 0,
+      "isSuspicious": false
+    }
+  ],
+  "referralsMap": {
+    "user_demo": [
+      {
+        "id": "ref_1",
+        "username": "ton_fan_99",
+        "joinedAt": 1789299850237,
+        "minedTotal": 0.42,
+        "commissionEarned": 0.05,
+        "active": true
+      },
+      {
+        "id": "ref_2",
+        "username": "telegram_gems",
+        "joinedAt": 1789386250237,
+        "minedTotal": 0.81,
+        "commissionEarned": 0.09,
+        "active": true
+      },
+      {
+        "id": "ref_3",
+        "username": "crypto_digger",
+        "joinedAt": 1789454650237,
+        "minedTotal": 0.25,
+        "commissionEarned": 0.04,
+        "active": true
+      }
+    ]
+  },
+  "notifications": {
+    "user_demo": [
+      {
+        "id": "refund_1789543475035",
+        "title": "TON Refunded to Balance! 💎",
+        "message": "Your withdrawal request of 0.2 TON was refunded back to your mining balance.",
+        "timestamp": 1789543475035,
+        "read": false,
+        "type": "payout"
+      },
+      {
+        "id": "wdraw_1789543471881",
+        "title": "Withdrawal Queued 💎",
+        "message": "Payout request of 0.2 TON to EQCD39...qB2N recorded. Awaiting on-chain broadcast (can be refunded to balance anytime).",
+        "timestamp": 1789543471881,
+        "read": false,
+        "type": "payout"
+      },
+      {
+        "id": "refund_payout_fix_1789543262868",
+        "title": "TON Payouts Refunded to Balance! 💎",
+        "message": "Your payout requests (0.55 TON total) have been safely refunded to your mining balance because no funded TON Hot Wallet is configured on this server to broadcast real on-chain cryptocurrency.",
+        "timestamp": 1789543262868,
+        "read": false,
+        "type": "payout"
+      },
+      {
+        "id": "wallet_1789475889281",
+        "title": "Wallet Connected! 💎",
+        "message": "Gram / TON wallet EQCD39...qB2N successfully linked for instant payouts.",
+        "timestamp": 1789475889281,
+        "read": false,
+        "type": "system"
+      },
+      {
+        "id": "wallet_1789475884469",
+        "title": "Wallet Connected! 💎",
+        "message": "Gram / TON wallet EQCD39...qB2N successfully linked for instant payouts.",
+        "timestamp": 1789475884469,
+        "read": false,
+        "type": "system"
+      },
+      {
+        "id": "wdraw_1789475088636",
+        "title": "Withdrawal Submitted! 💎",
+        "message": "Requested payout of 0.05 TON to EQCD39...qB2N. Payout initiated.",
+        "timestamp": 1789475088636,
+        "read": false,
+        "type": "payout"
+      },
+      {
+        "id": "wdraw_1789474884181",
+        "title": "Withdrawal Submitted",
+        "message": "Requested payout of 0.5 TON to EQCD39...qB2N. Status: Pending review.",
+        "timestamp": 1789474884181,
+        "read": false,
+        "type": "payout"
+      },
+      {
+        "id": "ad_1789474197406",
+        "title": "Ad Boost Applied! ⚡",
+        "message": "Earned +0.005 TON & 2.5x Mining Boost for 30m! Refilled +300 Energy.",
+        "timestamp": 1789474197406,
+        "read": false,
+        "type": "boost"
+      },
+      {
+        "id": "ad_1789474033925",
+        "title": "Ad Boost Applied! ⚡",
+        "message": "Earned +0.005 TON & 2.5x Mining Boost for 30m! Refilled +300 Energy.",
+        "timestamp": 1789474033925,
+        "read": false,
+        "type": "boost"
+      },
+      {
+        "id": "notif_welcome",
+        "title": "Welcome to TON Miner!",
+        "message": "Start mining TON coin, watch ads for unlimited boost multipliers, and invite friends.",
+        "timestamp": 1789299850237,
+        "read": true,
+        "type": "system"
+      },
+      {
+        "id": "notif_boost",
+        "title": "Ad Boost Active!",
+        "message": "Your 2.5x mining speed boost is active. You can stack unlimited boosts!",
+        "timestamp": 1789472350237,
+        "read": false,
+        "type": "boost"
+      }
+    ],
+    "user_telegram_998877": [
+      {
+        "id": "ad_1789474197417",
+        "title": "Ad Boost Applied! ⚡",
+        "message": "Earned +0.005 TON & 2.5x Mining Boost for 30m! Refilled +300 Energy.",
+        "timestamp": 1789474197417,
+        "read": false,
+        "type": "boost"
+      }
+    ]
+  }
+}
